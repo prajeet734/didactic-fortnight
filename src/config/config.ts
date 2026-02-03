@@ -8,7 +8,7 @@ const siteConfig = {
   personal: {
     name: 'Prajeet S',
     title: 'Christ student BGR, BSc Economics with Data Science',
-    image: getAsset('images/WhatsApp Image 2023-09-10 at 13.00.40.jpg'), // Customize or replace with your profile image
+    image: getAsset('images/git hub photo.jpeg'), // Customize or replace with your profile image
     description:
       'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
       '\n' +
